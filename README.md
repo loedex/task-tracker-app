@@ -1,6 +1,6 @@
 # Task Tracker Mini Project
 
-A menu-based Python Task Tracker application built for AI Engineering (Week 1, Day 2). It allows users to manage daily tasks with persistent storage using JSON.
+A menu-based Python Task Tracker application built for PSEB DEPLOY AI Engineering Bootcamp (Week 1, Day 2). It allows users to manage daily tasks with persistent storage using JSON.
 
 ## Features
 - **Add Task**: Add a new task title (stored as Pending). Validates against empty titles.
